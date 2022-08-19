@@ -1,0 +1,15 @@
+.category{
+  &_list{
+    width: 200px;
+    margin: 8px 0 8px 12px
+  }
+}
+.category{
+  display: block;
+  padding: 8px;
+  border-radius: 4px;
+  background: rgb(96, 67, 165);
+  margin: 4px;
+  cursor: pointer;
+  color: #fff;
+}
